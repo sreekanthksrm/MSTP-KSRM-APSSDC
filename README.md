@@ -1,2 +1,2 @@
 # MSTP-KSRM-APSSDC
-this is main respository
+THIS IS A MAIN REPOSITORY
